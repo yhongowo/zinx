@@ -1,0 +1,7 @@
+{
+  "Name": "MMO Game",
+  "Host": "localhost",
+  "TcpPort": 9000,
+  "MaxConn": 3000,
+  "WorkerPoolSize": 8
+}
